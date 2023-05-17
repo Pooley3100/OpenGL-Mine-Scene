@@ -1,0 +1,56 @@
+Student Name: POOLE, Matthew Alexander
+Student ID: 201298590
+Overall Mark: 100
+
+
+There are three categories that are weighted differently: Basic Implementation, Complex Elements and Overall Quality of the courseworks.
+The weighting coefficients are:
+W_basic: 0.75
+W_complex: 0.5
+W_quality: 2.0
+Your mark is: w_basic*total_basic + w_complex*total_complex + w_quality*total_quality.DO NOT JUST ADD ALL MARKS TO FIND YOUR OVERALL MARK.
+
+
+
+Implementation Basic Elements (total): 50
+
+Instancing (Compound Objects) (10 max): 10
+Comments: Instancing found in crates
+Lights and Materials (10 max): 10
+Comments: Two lights used with multiple customisable materials. In particular, the light of the minecart moves around the scene, and the minecart has a gradient material - well done.
+Specular and Diffuse Contributions (10 max): 10
+Comments: Ambient, diffuse, and specular contribution can be recognised on rocks and crates.
+Deviation from examples (20 max): 20
+Comments: The scene deviates significantly from the material provided in the tutorials. 
+
+
+
+Complex Elements (total): 25.0
+
+Simple User Interaction (3 max):3
+Comments:A good variety of user interaction is implemented.
+Texture mapping (5 max): 5
+Comments: Almost everything is textured, well done!
+Earth Markus and Marc used (2 max): 2
+Comments: All supplied textures have been used.
+Animation (5 max):5
+Comments: The minecart moves and the door flaps.
+Convex Object (From Polygons) (5 max): 5
+Comments: The hexagonal prism is a convex object - very unique choice!
+Object with hierarchical structure (1 max): 1
+Comments: The minecart is a hierarchical model.
+Motion of Hierarchical Object  Parts (2 max): 2
+Comments: The push bar on the minecart moves back and forth.
+Motion of Hierarchical Object in Circle Around the Scene: (2 max): 2
+Comments: The minecart itself moves in a circular path.
+
+
+
+Overall Quality (total): 25.0
+
+Visual Quality (10 max): 10
+Comments: The scene looks amazing - the theme is unique and all your objects fit the theme very well (except maybe the door). The moving light on the minecart being a spotlight and the walls/floor being tessellated, as well as a fitting choice of materials really add to the atmosphere.
+Effort (10 max): 10
+Comments: The code is well structured with plenty of comments throughout. The theme is unique and your execution is wonderful. Other than the basic requirements in the spec, you have also implemented object loading and tessellation to utilise the dynamic light on the minecart. Well done!
+Report (5 max): 5
+Comments: The report is well structured, detailed, and comprehensive by stating how each requirement is satisfied with supporting images, screenshots and code snippets.
