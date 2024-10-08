@@ -1,9 +1,11 @@
 # OpenGL-Mine-Scene
-Creating a 3D visualisation of a mine with OpenGL and Qt
+Creating a 3D visualisation of a mine with OpenGL
+
+<img src='/ExampleRender.png' width=300/>
 
 Build: 
 
-- (tested in feng-linux) 
+- (tested in linux) 
 - module add qt 
 - qmake 
 - make 
